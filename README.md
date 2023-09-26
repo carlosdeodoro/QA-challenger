@@ -1,4 +1,4 @@
-![image](https://github.com/carlosdeodoro/QA-challenger/assets/36192979/fa44816a-0e31-4ace-9a81-1279d1436570)# QA-challenger
+# QA-challenger
 
 - Criado os testes utilizando o framework [Cypress](https://www.cypress.io/);
 - Os testes foram realizados no app fornecido;
